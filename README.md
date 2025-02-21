@@ -61,24 +61,6 @@ The project is organized in different files (modules):
 22. RedBlackTree.py: It will implement the interface Set a balance tree.  This will be given as an extra-credit assignment, if time permits discussion of the relevant topics.
 
 
-Stack
-    |- ArrayStack
-    |- SLLStack     
-Queue   
-    |- ArrayQueue
-            |- RandomQueue
-            |- MaxQueue
-    |- SLLQueue
-    |- BinaryHeap
-List                            Dequeue
-    |- ArrayList                 |
-                |- ArrayDeque   -|
-    |- DLList                    |
-                |- DLLDeque     -|
-Set
-    |- ChainedHashTable
-    |- BinarySearchTree
-Graph
-    |- AdjacencyMatrix
-    |- AdjacencyList
+<img width="271" alt="Screenshot 2025-02-21 at 11 43 40 AM" src="https://github.com/user-attachments/assets/73c3a281-3a02-499c-a198-797b30186da7" />
+
 
